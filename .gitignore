@@ -1,0 +1,13 @@
+.bench/
+.ansible/
+.local/
+.node-gyp
+.profile
+.ssh/
+.viminfo
+.yarn/
+.bashrc
+.bash_logout
+.bash_history
+.cache/
+

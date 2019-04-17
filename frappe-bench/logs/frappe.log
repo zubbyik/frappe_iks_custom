@@ -1,0 +1,1361 @@
+[DEBUG] 2019-04-17 11:16:04,498 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:17:04,590 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:18:04,686 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:19:04,765 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:20:04,899 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:21:04,988 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:22:05,083 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:23:05,163 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:24:05,298 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:25:05,400 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:26:05,508 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:27:05,615 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:28:05,746 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:29:05,862 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:30:05,956 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:31:06,048 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:32:06,199 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:33:06,281 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:34:06,383 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:35:06,482 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:36:06,644 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:37:06,751 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:38:06,855 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:39:06,937 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:40:07,079 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:41:07,174 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:42:07,268 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:43:07,358 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:44:07,480 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:45:07,587 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:46:07,675 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:47:07,775 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:48:07,912 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:49:08,012 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:50:08,109 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:51:08,200 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:52:08,319 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:53:08,419 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:54:08,516 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:55:08,587 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:56:08,730 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:57:08,803 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:58:08,884 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 11:59:08,986 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:00:09,167 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:01:09,259 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:02:09,353 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:03:09,455 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:04:09,599 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:05:09,688 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:06:09,776 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:07:09,874 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:08:09,982 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:09:10,072 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:10:10,166 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:11:10,256 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:12:10,405 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:13:10,486 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:14:10,582 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:15:10,688 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:16:10,818 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:17:10,912 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:18:11,013 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:19:11,103 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:20:11,234 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:21:11,333 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:22:11,438 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:23:11,503 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:24:11,645 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:25:11,737 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:26:11,837 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:27:11,921 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:28:12,053 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:29:12,145 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:30:12,242 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:31:12,352 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:32:12,506 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:33:12,601 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:34:12,705 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:35:12,806 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:36:12,938 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:37:13,038 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:38:13,128 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:39:13,210 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:40:13,344 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:41:13,441 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:42:13,536 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:43:13,633 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:44:13,764 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:45:13,857 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:46:13,966 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:47:14,062 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:48:14,171 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:49:14,261 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:50:14,359 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:51:14,459 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:52:14,618 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:53:14,707 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:54:14,808 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:55:14,886 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:56:15,020 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:57:15,114 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:58:15,210 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 12:59:15,316 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:00:15,478 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:01:15,573 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:02:15,668 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:03:15,760 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:04:15,895 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:05:15,995 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:06:16,096 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:07:16,188 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:08:16,327 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:09:16,420 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:10:16,512 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:11:16,618 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:12:16,744 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:13:16,843 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:14:16,940 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:15:17,019 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:16:17,163 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:17:17,265 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:18:17,361 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:19:17,449 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:20:17,590 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:21:17,690 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:22:17,787 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:23:17,879 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:24:18,021 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:25:18,112 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:26:18,208 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:27:18,303 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:28:18,431 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:29:18,527 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:30:18,629 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:31:18,724 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:32:18,850 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:33:18,947 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:34:19,042 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:35:19,118 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:36:19,252 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:37:19,356 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:38:19,450 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:39:19,550 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:40:19,692 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:41:19,772 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:42:19,867 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:43:19,965 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:44:20,132 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:45:20,216 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:46:20,304 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:47:20,404 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:48:20,529 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:49:20,632 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:50:20,731 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:51:20,832 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:52:20,961 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:53:21,065 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:54:21,159 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:55:21,252 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:56:21,388 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:57:21,467 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:58:21,575 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 13:59:21,677 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:00:21,844 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:01:21,933 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:02:22,029 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:03:22,120 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:04:22,255 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:05:22,360 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:06:22,453 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:07:22,551 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:08:22,680 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:09:22,784 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:10:22,889 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:11:22,975 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:12:23,102 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:13:23,193 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:14:23,291 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:15:23,387 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:16:23,530 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:17:23,618 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:18:23,710 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:19:23,804 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:20:23,934 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:21:24,033 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:22:24,124 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:23:24,217 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:24:24,309 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:25:24,424 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:26:24,517 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:27:24,610 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:28:24,746 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:29:24,842 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:30:24,934 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:31:25,033 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:32:25,166 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:33:25,249 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:34:25,350 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:35:25,439 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:36:25,586 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:37:25,682 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:38:25,765 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:39:25,857 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:40:25,991 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:41:26,082 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:42:26,175 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:43:26,271 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:44:26,384 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:45:26,474 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:46:26,566 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:47:26,663 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:48:26,795 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:49:26,881 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:50:26,966 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:51:27,069 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:52:27,207 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:53:27,308 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:54:27,397 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:55:27,488 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:56:27,631 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:57:27,735 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:58:27,828 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 14:59:27,920 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:00:28,108 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:01:28,202 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:02:28,297 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:03:28,377 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:04:28,528 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:05:28,620 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:06:28,719 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:07:28,812 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:08:28,947 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:09:29,043 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:10:29,152 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:11:29,254 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:12:29,398 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:13:29,497 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:14:29,588 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:15:29,663 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:16:29,803 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:17:29,904 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:18:30,006 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:19:30,096 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:20:30,222 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:21:30,312 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:22:30,403 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:23:30,498 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:24:30,630 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:25:30,716 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:26:30,805 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:27:30,897 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:28:31,035 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:29:31,133 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:30:31,227 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:31:31,305 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:32:31,450 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:33:31,559 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:34:31,653 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:35:31,752 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:36:31,870 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:37:31,965 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:38:32,062 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:39:32,172 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:40:32,320 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:41:32,410 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:42:32,509 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:43:32,611 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:44:32,736 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:45:32,831 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:46:32,914 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:47:33,010 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:50:26,785 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:51:26,892 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:52:27,027 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:53:27,130 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:54:27,240 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:55:27,336 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:56:27,496 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:57:27,597 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:58:27,690 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 15:59:27,783 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:00:27,983 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:01:28,064 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:02:28,153 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:03:28,255 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:04:28,422 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:05:28,526 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:06:28,631 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:07:28,720 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:08:28,853 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:09:28,955 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:10:29,060 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:11:29,161 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:12:29,282 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:13:29,381 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:14:29,475 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:15:29,574 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:16:29,728 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:17:29,824 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:18:29,931 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:19:30,025 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:20:30,171 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:21:30,268 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:22:30,359 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:23:30,455 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:24:30,604 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:25:30,699 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:26:30,801 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:27:30,901 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:28:31,034 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:29:31,144 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:30:31,252 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:31:31,350 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:32:31,479 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:33:31,584 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:34:31,681 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:35:31,778 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:36:31,923 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:37:32,019 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:38:32,130 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:39:32,234 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:40:32,387 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:41:32,492 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:42:32,592 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:43:32,697 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:44:32,834 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:45:32,932 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:46:33,035 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:47:33,133 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:48:33,281 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:49:33,381 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:50:33,480 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:51:33,577 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:52:33,704 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:53:33,802 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:54:33,899 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:55:33,997 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:56:34,139 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:57:34,236 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:58:34,333 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 16:59:34,430 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:00:34,592 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:01:34,655 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:02:34,749 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:03:34,848 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:04:34,994 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:05:35,112 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:06:35,201 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:07:35,298 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:08:35,429 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:09:35,529 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:10:35,648 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:11:35,740 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:12:35,882 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:13:35,982 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:14:36,091 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:15:36,196 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:16:36,326 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:17:36,433 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:18:36,530 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:19:36,631 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:20:36,776 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:21:36,851 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:22:36,946 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:23:37,046 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:24:37,176 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:25:37,280 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:26:37,379 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:27:37,473 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:28:37,618 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:29:37,724 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:30:37,827 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:31:37,935 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:32:38,083 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:33:38,195 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:34:38,292 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:35:38,404 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:36:38,531 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:37:38,635 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:38:38,736 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:39:38,832 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:40:38,964 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:41:39,040 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:42:39,144 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:43:39,245 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:44:39,379 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:45:39,480 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:46:39,584 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:47:39,689 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:48:39,819 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:49:39,926 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:50:40,034 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:51:40,123 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:52:40,262 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:53:40,365 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:54:40,469 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:55:40,575 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:56:40,703 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:57:40,807 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:58:40,926 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 17:59:41,022 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:00:41,189 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:01:41,301 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:02:41,395 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:03:41,491 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:04:41,650 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:05:41,736 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:06:41,836 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:07:41,934 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:08:42,066 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:09:42,164 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:10:42,256 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:11:42,344 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:12:42,479 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:13:42,585 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:14:42,680 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:15:42,777 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:16:42,911 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:17:43,021 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:18:43,116 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:19:43,213 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:20:43,354 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:21:43,461 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:22:43,556 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:23:43,653 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:24:43,794 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:25:43,895 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:26:43,993 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:27:44,091 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:28:44,219 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:29:44,322 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:30:44,414 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:31:44,506 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:32:44,643 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:33:44,737 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:34:44,854 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:35:44,959 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:36:45,086 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:37:45,181 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:38:45,276 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[DEBUG] 2019-04-17 18:39:45,377 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: my.site
+Queued events for site my.site
+[ERROR] 2019-04-17 19:17:23,429 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: my.site
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 75, in application
+    response = frappe.website.render.render()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py", line 58, in render
+    data = render_page('404')
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py", line 158, in render_page
+    return build(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py", line 165, in build
+    return build_page(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py", line 178, in build_page
+    context = get_context(path)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/website/context.py", line 28, in get_context
+    context = build_context(context)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/website/context.py", line 75, in build_context
+    context.update(get_website_settings())
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/website/doctype/website_settings/website_settings.py", line 76, in get_website_settings
+    {"label": _("My Account"), "url": "/me"},
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 72, in _
+    return get_full_dict(lang).get(msg) or non_translated_msg
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/translate.py", line 190, in get_full_dict
+    frappe.local.lang_full_dict = load_lang(lang)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/translate.py", line 215, in load_lang
+    path = os.path.join(frappe.get_pymodule_path(app), "translations", lang + ".csv")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 840, in get_pymodule_path
+    return os.path.join(os.path.dirname(get_module(scrub(modulename)).__file__), *joins)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 802, in get_module
+    return importlib.import_module(modulename)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named civil_contracting
+[ERROR] 2019-04-17 19:17:23,512 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2019-04-17 19:17:23.430152-107.151.102.114-4a3

@@ -1,0 +1,279 @@
+{
+ "etype": "ImportError", 
+ "evalue": "ImportError('No module named civil_contracting',)", 
+ "exception": {
+  "args": "('No module named civil_contracting',)", 
+  "message": "'No module named civil_contracting'"
+ }, 
+ "frames": [
+  {
+   "call": "(request=<Request 'http://108.61.99.221/phpmyadmin' [GET]>)", 
+   "dump": {
+    "frappe. website": "<module 'frappe.website' from '/home/frappe/frappe-bench/apps/frappe/frappe/website/__init__.pyc'>", 
+    "frappe.website. render": "<module 'frappe.website.render' from '/home/frap...ppe-bench/apps/frappe/frappe/website/render.pyc'>", 
+    "frappe.website.render. render": "<function render>", 
+    "global frappe": "<module 'frappe' from '/home/frappe/frappe-bench/apps/frappe/frappe/__init__.pyc'>", 
+    "response": "None"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", 
+   "func": "application", 
+   "lines": {
+    "73": "", 
+    "74": "\t\telif frappe.local.request.method in ('GET', 'HEAD', 'POST'):", 
+    "75": "\t\t\tresponse = frappe.website.render.render()", 
+    "76": "", 
+    "77": "\t\telse:"
+   }, 
+   "lnum": 75
+  }, 
+  {
+   "call": "(path=u'phpmyadmin', http_status_code=None)", 
+   "dump": {
+    "data": "None", 
+    "global render_page": "<function render_page>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py", 
+   "func": "render", 
+   "lines": {
+    "56": "\t\t\t\t\t# 404s are expensive, cache them!", 
+    "57": "\t\t\t\t\tfrappe.cache().hset('website_404', frappe.request.url, True)", 
+    "58": "\t\t\t\t\tdata = render_page('404')", 
+    "59": "\t\t\t\t\thttp_status_code = 404", 
+    "60": ""
+   }, 
+   "lnum": 58
+  }, 
+  {
+   "call": "(path=u'404')", 
+   "dump": {
+    "global build": "<function build>", 
+    "path": "u'404'"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py", 
+   "func": "render_page", 
+   "lines": {
+    "156": "\t\treturn out", 
+    "157": "", 
+    "158": "\treturn build(path)", 
+    "159": "", 
+    "160": "def build(path):"
+   }, 
+   "lnum": 158
+  }, 
+  {
+   "call": "(path=u'404')", 
+   "dump": {
+    "global build_page": "<function build_page>", 
+    "path": "u'404'"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py", 
+   "func": "build", 
+   "lines": {
+    "163": "", 
+    "164": "\ttry:", 
+    "165": "\t\treturn build_page(path)", 
+    "166": "\texcept frappe.DoesNotExistError:", 
+    "167": "\t\thooks = frappe.get_hooks()"
+   }, 
+   "lnum": 165
+  }, 
+  {
+   "call": "(path=u'404')", 
+   "dump": {
+    "context": "undefined", 
+    "global get_context": "<function get_context>", 
+    "path": "u'404'"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py", 
+   "func": "build_page", 
+   "lines": {
+    "176": "\t\tfrappe.local.path = path", 
+    "177": "", 
+    "178": "\tcontext = get_context(path)", 
+    "179": "", 
+    "180": "\tif context.source:"
+   }, 
+   "lnum": 178
+  }, 
+  {
+   "call": "(path=u'404', args=None)", 
+   "dump": {
+    "context": "{'name': u'404', 'title': u'404', 'route': u'php...', 'pathname': u'phpmyadmin', 'basename': u'404'}", 
+    "global build_context": "<function build_context>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/website/context.py", 
+   "func": "get_context", 
+   "lines": {
+    "26": "\tcontext.route = context.path", 
+    "27": "", 
+    "28": "\tcontext = build_context(context)", 
+    "29": "", 
+    "30": "\t# set using frappe.respond_as_web_page"
+   }, 
+   "lnum": 28
+  }, 
+  {
+   "call": "(context={'url_prefix': u'', 'basename': u'404', 'name': ...home/frappe/frappe-bench/apps/frappe/frappe/www'})", 
+   "dump": {
+    "context": "{'url_prefix': u'', 'basename': u'404', 'name': ...home/frappe/frappe-bench/apps/frappe/frappe/www'}", 
+    "context. update": "<bound method _dict.update of {'url_prefix': u''...ome/frappe/frappe-bench/apps/frappe/frappe/www'}>", 
+    "global get_website_settings": "<function get_website_settings>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/website/context.py", 
+   "func": "build_context", 
+   "lines": {
+    "73": "\tcontext.docs_base_url = '/docs'", 
+    "74": "", 
+    "75": "\tcontext.update(get_website_settings())", 
+    "76": "\tcontext.update(frappe.local.conf.get(\"website_context\") or {})", 
+    "77": ""
+   }, 
+   "lnum": 75
+  }, 
+  {
+   "call": "()", 
+   "dump": {
+    "global _": "<function _>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/website/doctype/website_settings/website_settings.py", 
+   "func": "get_website_settings", 
+   "lines": {
+    "74": "\t\t'footer_items': get_items('footer_items'),", 
+    "75": "\t\t\"post_login\": [", 
+    "76": "\t\t\t{\"label\": _(\"My Account\"), \"url\": \"/me\"},", 
+    "77": "#\t\t\t{\"class\": \"divider\"},", 
+    "78": "\t\t\t{\"label\": _(\"Logout\"), \"url\": \"/?cmd=web_logout\"}"
+   }, 
+   "lnum": 76
+  }, 
+  {
+   "call": "(msg=u'My Account', lang=u'zh')", 
+   "dump": {
+    ").get": "undefined", 
+    "get_full_dict": "<function get_full_dict>", 
+    "lang": "u'zh'", 
+    "msg": "u'My Account'", 
+    "non_translated_msg": "u'My Account'"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", 
+   "func": "_", 
+   "lines": {
+    "70": "", 
+    "71": "\t# return lang_full_dict according to lang passed parameter", 
+    "72": "\treturn get_full_dict(lang).get(msg) or non_translated_msg", 
+    "73": "", 
+    "74": "def as_unicode(text, encoding='utf-8'):"
+   }, 
+   "lnum": 72
+  }, 
+  {
+   "call": "(lang=u'zh')", 
+   "dump": {
+    "frappe. local": "<werkzeug.local.Local object>", 
+    "frappe.local. lang_full_dict": "None", 
+    "global frappe": "<module 'frappe' from '/home/frappe/frappe-bench/apps/frappe/frappe/__init__.pyc'>", 
+    "global load_lang": "<function load_lang>", 
+    "lang": "u'zh'"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/translate.py", 
+   "func": "get_full_dict", 
+   "lines": {
+    "188": "\t\treturn frappe.local.lang_full_dict", 
+    "189": "", 
+    "190": "\tfrappe.local.lang_full_dict = load_lang(lang)", 
+    "191": "", 
+    "192": "\ttry:"
+   }, 
+   "lnum": 190
+  }, 
+  {
+   "call": "(lang=u'zh', apps=None)", 
+   "dump": {
+    "app": "u'civil_contracting'", 
+    "frappe. get_pymodule_path": "<function get_pymodule_path>", 
+    "global frappe": "<module 'frappe' from '/home/frappe/frappe-bench/apps/frappe/frappe/__init__.pyc'>", 
+    "global os": "<module 'os' from '/home/frappe/frappe-bench/env/lib/python2.7/os.pyc'>", 
+    "lang": "u'zh'", 
+    "os. path": "<module 'posixpath' from '/home/frappe/frappe-bench/env/lib/python2.7/posixpath.pyc'>", 
+    "os.path. join": "<function join>", 
+    "path": "u'/home/frappe/frappe-bench/apps/transport_manag.../transport_management_system/translations/zh.csv'"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/translate.py", 
+   "func": "load_lang", 
+   "lines": {
+    "213": "\t\tout = {}", 
+    "214": "\t\tfor app in (apps or frappe.get_all_apps(True)):", 
+    "215": "\t\t\tpath = os.path.join(frappe.get_pymodule_path(app), \"translations\", lang + \".csv\")", 
+    "216": "\t\t\tout.update(get_translation_dict_from_file(path, lang, app) or {})", 
+    "217": ""
+   }, 
+   "lnum": 215
+  }, 
+  {
+   "call": "(modulename=u'civil_contracting', *joins=[])", 
+   "dump": {
+    ").__file__": "undefined", 
+    "global get_module": "<function get_module>", 
+    "global os": "<module 'os' from '/home/frappe/frappe-bench/env/lib/python2.7/os.pyc'>", 
+    "global scrub": "<function scrub>", 
+    "joins": "[]", 
+    "modulename": "u'civil_contracting'", 
+    "os. path": "<module 'posixpath' from '/home/frappe/frappe-bench/env/lib/python2.7/posixpath.pyc'>", 
+    "os.path. dirname": "<function dirname>", 
+    "os.path. join": "<function join>"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", 
+   "func": "get_pymodule_path", 
+   "lines": {
+    "838": "\tif not \"public\" in joins:", 
+    "839": "\t\tjoins = [scrub(part) for part in joins]", 
+    "840": "\treturn os.path.join(os.path.dirname(get_module(scrub(modulename)).__file__), *joins)", 
+    "841": "", 
+    "842": "def get_module_list(app_name):"
+   }, 
+   "lnum": 840
+  }, 
+  {
+   "call": "(modulename=u'civil_contracting')", 
+   "dump": {
+    "global importlib": "<module 'importlib' from '/usr/lib/python2.7/importlib/__init__.pyc'>", 
+    "importlib. import_module": "<function import_module>", 
+    "modulename": "u'civil_contracting'"
+   }, 
+   "file": "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", 
+   "func": "get_module", 
+   "lines": {
+    "800": "def get_module(modulename):", 
+    "801": "\t\"\"\"Returns a module object for given Python module name using `importlib.import_module`.\"\"\"", 
+    "802": "\treturn importlib.import_module(modulename)", 
+    "803": "", 
+    "804": "def scrub(txt):"
+   }, 
+   "lnum": 802
+  }, 
+  {
+   "call": "(name=u'civil_contracting', package=None)", 
+   "dump": {
+    "builtin __import__": "<built-in function __import__>", 
+    "name": "u'civil_contracting'"
+   }, 
+   "file": "/usr/lib/python2.7/importlib/__init__.py", 
+   "func": "import_module", 
+   "lines": {
+    "34": "                break", 
+    "35": "            level += 1", 
+    "36": "        name = _resolve_name(name[level:], package, level)", 
+    "37": "    __import__(name)", 
+    "38": "    return sys.modules[name]"
+   }, 
+   "lnum": 37
+  }
+ ], 
+ "locals": {
+  "name": "u'civil_contracting'", 
+  "package": "None"
+ }, 
+ "pyver": "Python 2.7.15rc1: /home/frappe/frappe-bench/env/bin/python (prefix: /home/frappe/frappe-bench/env)", 
+ "timestamp": "2019-04-17 19:17:23.430540", 
+ "traceback": "Traceback (most recent call last):\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/app.py\", line 75, in application\n    response = frappe.website.render.render()\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py\", line 58, in render\n    data = render_page('404')\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py\", line 158, in render_page\n    return build(path)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py\", line 165, in build\n    return build_page(path)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/website/render.py\", line 178, in build_page\n    context = get_context(path)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/website/context.py\", line 28, in get_context\n    context = build_context(context)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/website/context.py\", line 75, in build_context\n    context.update(get_website_settings())\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/website/doctype/website_settings/website_settings.py\", line 76, in get_website_settings\n    {\"label\": _(\"My Account\"), \"url\": \"/me\"},\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py\", line 72, in _\n    return get_full_dict(lang).get(msg) or non_translated_msg\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/translate.py\", line 190, in get_full_dict\n    frappe.local.lang_full_dict = load_lang(lang)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/translate.py\", line 215, in load_lang\n    path = os.path.join(frappe.get_pymodule_path(app), \"translations\", lang + \".csv\")\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py\", line 840, in get_pymodule_path\n    return os.path.join(os.path.dirname(get_module(scrub(modulename)).__file__), *joins)\n  File \"/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py\", line 802, in get_module\n    return importlib.import_module(modulename)\n  File \"/usr/lib/python2.7/importlib/__init__.py\", line 37, in import_module\n    __import__(name)\nImportError: No module named civil_contracting\n"
+}
